@@ -1,2 +1,1 @@
-# Code of Conduct
-The Open Lab Code of Conduct
+# The Egalitarian Code of Conduct
